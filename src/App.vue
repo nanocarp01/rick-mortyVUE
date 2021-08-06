@@ -2,7 +2,7 @@
   <div id="app"> 
     <div class="hero is-white is-gradient is-bold">
 
-      <div class="hero-body">
+      <div class="hero-body is-centered">
         <h1 class="title">
           <span class="has-text-success">R-and-M</span>
           <span class="subtitle">Personajes</span>
